@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "teleAPI",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authtelemedicineapp2c92b137f",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

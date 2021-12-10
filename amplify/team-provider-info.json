@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify4605ca0df81f4-staging-223035-authRole",
+      "UnauthRoleArn": "arn:aws:iam::293042568989:role/amplify-amplify4605ca0df81f4-staging-223035-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::293042568989:role/amplify-amplify4605ca0df81f4-staging-223035-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify4605ca0df81f4-staging-223035-deployment",
+      "UnauthRoleName": "amplify-amplify4605ca0df81f4-staging-223035-unauthRole",
+      "StackName": "amplify-amplify4605ca0df81f4-staging-223035",
+      "StackId": "arn:aws:cloudformation:us-east-1:293042568989:stack/amplify-amplify4605ca0df81f4-staging-223035/cb1f5830-5a08-11ec-9651-0aa56e73fb7f",
+      "AmplifyAppId": "d1fljzrrobqunu"
+    },
+    "categories": {
+      "auth": {
+        "telemedicineapp2c92b137f": {}
+      }
+    }
+  }
+}
